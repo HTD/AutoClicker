@@ -50,7 +50,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>Pointer.ico</ApplicationIcon>
+    <ApplicationIcon>
+    </ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -91,8 +92,6 @@
     <None Include="Resources\Fire.ico" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Fire.ico" />
-    <Content Include="Pointer.ico" />
     <None Include="Resources\Pin.png" />
     <None Include="Resources\Exit.png" />
     <None Include="Resources\Time.png" />
